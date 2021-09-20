@@ -6,4 +6,4 @@ Decidir criar um projetinho simulando um site de apostas esportivas, onde coloqu
 
 ####Resultado do projeto
 
-![alt](https://link)
+![alt](https://github.com/viniciuscavalheiro1/front-bets/blob/master/img/front-bet-screen.png)
